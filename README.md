@@ -1,3 +1,7 @@
+# Lyri
+
+A simple tool for testing APIs
+
 # USAGE
 
 1. Configure the application, declare your parameters in the lyri_config.py file
